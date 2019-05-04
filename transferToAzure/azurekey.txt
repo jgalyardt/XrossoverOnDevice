@@ -1,0 +1,1 @@
+HostName=XrossoverIOT.azure-devices.net;DeviceId=xrossovervest;SharedAccessKey=3dJpcufHLB7ADVF8V2chaof60ZjbrvpE2I9Ys6hne/8=
